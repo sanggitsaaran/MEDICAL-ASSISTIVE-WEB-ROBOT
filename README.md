@@ -70,3 +70,6 @@ A custom **web-based control interface** replaces traditional RViz interaction, 
 The **Medical Assistive Web Robot** successfully integrates SLAM, autonomous navigation, and intuitive control interfaces to provide a practical solution for hospital automation. With its web-based control and optional voice interface, the system reduces staff workload, enhances patient support logistics, and sets a scalable foundation for future healthcare robotics applications.
 
 ---
+## Web Interface
+
+[SmartMed Delivery System](Proof/Web_Interface.mp4)
