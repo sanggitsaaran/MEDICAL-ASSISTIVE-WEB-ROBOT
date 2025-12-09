@@ -308,10 +308,9 @@ ros2 launch voice_controller_my_robot voice_controller.launch.py
     <td align="center">
       <strong>Sanggit Saaran K C S</strong><br>
       <sub>CB.SC.U4AIE23247</sub><br>
-      <a href="https://github.com/sanggitsaaran">GitHub</a>
     </td>
     <td align="center">
-      <strong>Surya Ha</strong><br>
+      <strong>Surya HA</strong><br>
       <sub>CB.SC.U4AIE23267</sub>
     </td>
     <td align="center">
@@ -366,7 +365,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Made with ❤️ by Team JetHexa**
+**Made with ❤️ by Team C13**
 
 [![GitHub stars](https://img.shields.io/github/stars/sanggitsaaran/MEDICAL-ASSISTIVE-WEB-ROBOT?style=social)](https://github.com/sanggitsaaran/MEDICAL-ASSISTIVE-WEB-ROBOT/stargazers)
 
